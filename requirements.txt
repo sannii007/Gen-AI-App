@@ -7,5 +7,4 @@ pyttsx3
 librosa
 torch
 transformers
-base64
 openai
