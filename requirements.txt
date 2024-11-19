@@ -7,4 +7,4 @@ librosa
 torch
 transformers
 openai
-file_utils-0.0.1
+file_utils 0.0.1
