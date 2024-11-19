@@ -1,7 +1,6 @@
 streamlit
 huggingface_hub
 htbuilder
-file_utils
 audio_recorder_streamlit
 pyttsx3
 librosa
